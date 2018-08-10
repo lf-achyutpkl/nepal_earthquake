@@ -1330,7 +1330,6 @@ function displayPopup() {
 
             "देखाइएको छ । " +
 
-            "<a href='https://github.com/silentflutes/map'>Source code.</a>"
             + "</p></div>"
         ;
 
